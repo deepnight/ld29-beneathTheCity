@@ -1,0 +1,8 @@
+-cp src
+-swf swf/ld29beneaththesurface.swf
+-swf-header 960:600:30:FFFFFF
+-swf-lib "obj\ld29 - beneath the surfaceResources.swf"
+--flash-strict
+-swf-version 11.4
+-main Main
+-D spriteParticles
